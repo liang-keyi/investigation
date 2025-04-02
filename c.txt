@@ -3,4 +3,21 @@
                               evolution times: 160339
     2 attempt: min_sequence = mifsfdmrntmqozsnlvgpvmcpntdfdzpkqfedfhasdxcuktekvaisdncanvpsdovncgsupghewh(hamming_distance = 69)
                               evolution times: 125121
-    3 attempt: min_sequence = 
+    3 attempt: min_sequence = uvqqmeaywxmhujyfpynswkqdqafruhmielwckxdbwqspebudgxelggiqlnbnzxwsnjomiqxvnr(hamming_distance = 71)
+                              evolution times: 113399
+                            
+#record N = 10, prob = 0.2
+    1 attempt: min_sequence = ehtlnujuogupusvbxqobhffcaldnuvlhdnnbgulreqgxafbghbadgnvgrixvomaplniykqynri(hamming_distance = 67)
+                              evolution times: 81900
+    2 attempt: min_sequence = dvdhtwiqtzlkuezglzlqhxpfcywvvctmfzhzklffgxrpeujpnbbdxqjwoqmkecotnlhcrxmlyv(hamming_distance = 70)
+                              evolution times: 134398
+    3 attempt: min_sequence = mruhsrfartngrcsjiupdxhyzczqdotgettgtmlitlpwlewrkpjrlmpdcmcqdathtbiucwheozm(hamming_distance = 68)
+                              evolution times: 30991
+
+#record N = 10, prob = 0.2
+    1 attempt: min_sequence = ehtlnujuogupusvbxqobhffcaldnuvlhdnnbgulreqgxafbghbadgnvgrixvomaplniykqynri(hamming_distance = 67)
+                              evolution times: 81900
+    2 attempt: min_sequence = dvdhtwiqtzlkuezglzlqhxpfcywvvctmfzhzklffgxrpeujpnbbdxqjwoqmkecotnlhcrxmlyv(hamming_distance = 70)
+                              evolution times: 134398
+    3 attempt: min_sequence = mruhsrfartngrcsjiupdxhyzczqdotgettgtmlitlpwlewrkpjrlmpdcmcqdathtbiucwheozm(hamming_distance = 68)
+                              evolution times: 30991
