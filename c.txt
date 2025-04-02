@@ -1,0 +1,6 @@
+#record N = 10, prob = 0.1
+    1 attempt: min_sequence = avdkbymrukqmfmrfhzllzyfcdwnekuaksntagapbraxiccyxrnkbbloyfxueguvywviwijxxuc(hamming_distance = 69)
+                              evolution times: 160339
+    2 attempt: min_sequence = mifsfdmrntmqozsnlvgpvmcpntdfdzpkqfedfhasdxcuktekvaisdncanvpsdovncgsupghewh(hamming_distance = 69)
+                              evolution times: 125121
+    3 attempt: min_sequence = 
